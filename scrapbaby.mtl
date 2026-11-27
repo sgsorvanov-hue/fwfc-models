@@ -3,15 +3,10 @@
 
 newmtl Scrap_Baby_Body_02
 Kd 1 1 1
-Ks 1 1 1
 Ke 0 0 0
 d 1
 Ns 1000
 illum 2
-map_Kd *0
-map_Ks *2
-bump *1
-map_bump *1
 
 newmtl Scrap_Baby_Body_01
 Kd 1 1 1
@@ -19,9 +14,6 @@ Ke 1 1 1
 d 1
 Ns 1.7888552
 illum 2
-map_Kd *3
-bump *4
-map_bump *4
 
 newmtl Scrap_Baby_Hair
 Kd 1 1 1
@@ -29,9 +21,6 @@ Ke 0 0 0
 d 1
 Ns 1.7888552
 illum 2
-map_Kd *6
-bump *7
-map_bump *7
 
 newmtl Scrap_Baby_Eyes
 Kd 1 1 1
@@ -39,7 +28,6 @@ Ke 0 0 0
 d 1
 Ns 1.7888552
 illum 2
-map_Kd *8
 
 newmtl $Material_4
 Kd 1 1 1
